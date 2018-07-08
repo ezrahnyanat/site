@@ -1,6 +1,7 @@
 ---
 title: Ezrah Nyanat
 
+layout: layout
 ---
 
 <h1>
