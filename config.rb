@@ -5,6 +5,8 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
+set :markdown_engine, :kramdown
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
