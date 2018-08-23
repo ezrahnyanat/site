@@ -8,7 +8,7 @@ end
 set :markdown_engine, :kramdown
 
 activate :deploy do |deploy|
-    deploy.method = :git
+    deploy.deploy_method = :git
     deploy.remote = :origin
     deploy.branch = gh-pages
     deploy.build_before = true
