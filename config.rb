@@ -7,6 +7,11 @@ end
 
 set :markdown_engine, :kramdown
 
+activate :deploy do |deploy|
+    deploy.deploy_method = :git
+    deploy.remote = 'https://github.com/ezrahnyanat/site.git'
+end
+
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 
