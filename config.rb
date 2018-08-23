@@ -8,8 +8,8 @@ end
 set :markdown_engine, :kramdown
 
 activate :deploy do |deploy|
-    deploy.deploy_method = :git
-    deploy.remote = 'https://github.com/ezrahnyanat/site.git'
+    deploy.method = :git
+    deploy.build_before = true
 end
 
 # Layouts
