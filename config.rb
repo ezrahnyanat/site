@@ -5,12 +5,14 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
+activate :directory_indexes
+
 set :markdown_engine, :kramdown
 
 activate :deploy do |deploy|
     deploy.deploy_method = :git
     deploy.remote = :origin
-    deploy.branch = gh-pages
+    # deploy.branch = gh-pages
     deploy.build_before = true
 end
 
