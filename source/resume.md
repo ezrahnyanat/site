@@ -5,6 +5,19 @@
 
 ## WORK EXPERIENCE
 
+**ONE HOPE, Florida** | May 2019 – Present
+
+**Contractor Developer**
+
+Worked with the Strategy Project Manager to make edits and add pages to the Wordpress site for Watoto Christian Halls (https://watoto.christianhalls.com)
+
+**H2OK, Oklahoma** | May 2019 - Present
+
+**Contractor Developer**
+
+Worked with the company’s admin and marketer to set up the company’s website in Wordpress
+(https://h2ok.com)
+
 **LIFE.CHURCH CENTRAL OFFICES, Edmond OK** | Sep 2018 – Present
 
 **YouVersion Web Developer Intern**
