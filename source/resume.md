@@ -5,20 +5,26 @@
 
 ## WORK EXPERIENCE
 
-**ONE HOPE, Florida** | May 2019 – Present
+**DELL, Round Rock TX** | Nov 2019 - Present
+
+**Software Engineer**
+
+* `UI developer for the deals platform on the commerce site` (https://deals.dell.com)
+
+**ONE HOPE, Florida** | May - Aug 2019
 
 **Contractor Developer**
 
-Worked with the Strategy Project Manager to make edits and add pages to the Wordpress site for Watoto Christian Halls (https://watoto.christianhalls.com)
+* `Worked with the Strategy Project Manager to make edits and add pages to the Wordpress site for Watoto Christian Halls` (https://watoto.christianhalls.com)
 
-**H2OK, Oklahoma** | May 2019 - Present
+**H2OK, Oklahoma** | May - Sep 2019
 
 **Contractor Developer**
 
-Worked with the company’s admin and marketer to set up the company’s website in Wordpress
+* `Worked with the company’s admin and marketer to set up the company’s website in Wordpress`
 (https://h2ok.com)
 
-**LIFE.CHURCH CENTRAL OFFICES, Edmond OK** | Sep 2018 – Present
+**LIFE.CHURCH CENTRAL OFFICES, Edmond OK** | Sep 2018 – May 2019
 
 **YouVersion Web Developer Intern**
 
