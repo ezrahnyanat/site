@@ -28,7 +28,7 @@
 
 **YouVersion Web Developer Intern**
 
-Contributed to both the web app (bible.com), which receives an average of 2 million unique visitors weekly from over 200 countries, and the team's internal tools: 
+Contributed to both the web app (https://bible.com), which receives an average of 2 million unique visitors weekly from over 200 countries, and the team's internal tools: 
 
 * `Built and deployed the user interface of a video content management system with ReactJS and Netlify for the content team to better manage video content in the application.`
 
