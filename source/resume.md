@@ -9,15 +9,15 @@
 
 **Software Engineer**
 
-* `UI developer for the deals platform on the commerce site` (https://deals.dell.com)
+* `Working on the deals platform on the commerce site` (https://deals.dell.com)
 
-**ONE HOPE, Florida** | May - Aug 2019
+**ONE HOPE, FL** | May - Aug 2019
 
 **Contractor Developer**
 
 * `Worked with the Strategy Project Manager to make edits and add pages to the Wordpress site for Watoto Christian Halls` (https://watoto.christianhalls.com)
 
-**H2OK, Oklahoma** | May - Sep 2019
+**H2OK, OK** | May - Sep 2019
 
 **Contractor Developer**
 
